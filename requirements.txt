@@ -2,3 +2,8 @@ Flask
 Flask-Cors
 speedtest-cli
 gunicorn
+webbrowser
+os
+pathlib
+threading
+PIL
